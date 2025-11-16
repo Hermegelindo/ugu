@@ -1,0 +1,345 @@
+{
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_cross_recipe": "2025-11-16 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-11-16 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-11-16 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-11-16 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-11-16 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2025-11-16 17:41:15 +0000",
+      "minecraft:birch_forest": "2025-11-16 04:48:49 +0000",
+      "minecraft:bamboo_jungle": "2025-11-16 01:37:08 +0000",
+      "minecraft:savanna_plateau": "2025-11-16 05:14:14 +0000",
+      "minecraft:beach": "2025-11-16 01:38:39 +0000",
+      "minecraft:sparse_jungle": "2025-11-16 01:35:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-11-16 01:38:41 +0000",
+      "minecraft:river": "2025-11-16 01:37:38 +0000",
+      "minecraft:stony_shore": "2025-11-16 03:02:44 +0000",
+      "minecraft:dripstone_caves": "2025-11-16 01:37:34 +0000",
+      "minecraft:forest": "2025-11-16 04:00:43 +0000",
+      "minecraft:lush_caves": "2025-11-16 01:37:03 +0000",
+      "minecraft:jungle": "2025-11-16 01:37:30 +0000",
+      "minecraft:ocean": "2025-11-16 17:44:50 +0000",
+      "minecraft:windswept_savanna": "2025-11-16 17:45:18 +0000",
+      "minecraft:old_growth_birch_forest": "2025-11-16 04:47:43 +0000",
+      "minecraft:savanna": "2025-11-16 04:54:35 +0000",
+      "minecraft:plains": "2025-11-16 04:02:17 +0000"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-11-16 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:fragment_jungle": "2025-11-16 03:29:01 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-11-16 01:37:29 +0000",
+      "biomeswevegone:temperate_grove": "2025-11-16 05:22:25 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-11-16 17:52:37 +0000",
+      "biomeswevegone:ironwood_gour": "2025-11-16 04:23:56 +0000",
+      "biomeswevegone:orchard": "2025-11-16 04:29:29 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-11-16 03:59:46 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-11-16 04:48:33 +0000",
+      "biomeswevegone:prairie": "2025-11-16 04:29:06 +0000",
+      "biomeswevegone:ebony_woods": "2025-11-16 03:56:42 +0000",
+      "biomeswevegone:rose_fields": "2025-11-16 05:20:01 +0000",
+      "biomeswevegone:aspen_boreal": "2025-11-16 05:19:37 +0000",
+      "biomeswevegone:allium_shrubland": "2025-11-16 04:31:24 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:enchanted_tangle": "2025-11-16 01:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-16 02:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-16 02:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-11-16 03:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-11-16 04:08:13 +0000",
+      "minecraft:spider": "2025-11-16 04:26:24 +0000",
+      "minecraft:creeper": "2025-11-16 04:18:26 +0000",
+      "minecraft:cave_spider": "2025-11-16 04:52:32 +0000",
+      "minecraft:zombie": "2025-11-16 03:36:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-11-16 03:36:03 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:regalhart_defeat": {
+    "criteria": {
+      "regalhart_defeat_0": "2025-11-16 03:40:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-11-16 03:40:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-11-16 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:earthloong_defeat": {
+    "criteria": {
+      "earthloong_defeat_0": "2025-11-16 03:42:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/forager": {
+    "criteria": {
+      "white_puffball_cap": "2025-11-16 03:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-11-16 03:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-11-16 03:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-11-16 05:24:14 +0000",
+      "cooked_mutton": "2025-11-16 04:33:14 +0000",
+      "cooked_beef": "2025-11-16 04:04:33 +0000",
+      "pumpkin_pie": "2025-11-16 05:00:51 +0000",
+      "mutton": "2025-11-16 04:22:55 +0000",
+      "bread": "2025-11-16 05:05:49 +0000",
+      "golden_apple": "2025-11-16 04:53:36 +0000",
+      "rotten_flesh": "2025-11-16 04:11:17 +0000",
+      "glow_berries": "2025-11-16 04:08:41 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-11-16 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-11-16 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-11-16 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-11-16 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-11-16 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-11-16 04:09:30 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-11-16 04:09:44 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-11-16 04:09:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-11-16 04:15:22 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:root": {
+    "criteria": {
+      "crafting_table": "2025-11-16 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-11-16 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/root": {
+    "criteria": {
+      "requirement": "2025-11-16 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-11-16 04:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-11-16 04:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-11-16 04:34:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-11-16 04:37:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-11-16 04:37:44 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/break_fossil": {
+    "criteria": {
+      "relic_scrap": "2025-11-16 04:41:49 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-11-16 04:53:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-11-16 04:59:02 +0000",
+      "golden_apple": "2025-11-16 04:53:09 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-11-16 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-11-16 05:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-11-16 05:01:52 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-11-16 05:20:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-11-16 05:27:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-11-16 05:30:26 +0000"
+    },
+    "done": true
+  },
+  "weaponmaster:parts/root": {
+    "criteria": {
+      "crafting_table": "2025-11-16 17:38:50 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-11-16 17:38:50 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
